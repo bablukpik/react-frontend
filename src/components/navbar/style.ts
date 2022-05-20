@@ -4,10 +4,12 @@ import {
   ColorGray100,
   ColorWhite,
   HeightMd,
+  HeightSm,
   IconHeightMd,
   IconWidthMd,
   SpacingMd,
   SpacingXl,
+  SpacingXs,
   WidthFullVw,
   WidthXl,
 } from 'src/styles/tokens';
@@ -35,7 +37,8 @@ export const LogoContainer = styled.div`
 
 export const Logo = styled.img`
   max-width: ${WidthXl};
-  height: auto;
+  height: ${HeightSm};
+  margin-top: ${SpacingXs};
   margin-right: ${SpacingMd};
 `;
 
