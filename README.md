@@ -1,6 +1,6 @@
 # React Frontend
 
-This is a sample React Frontend
+This is a sample React Frontend using Reactjs, TypeScript, Docker-compose, Style Dictionary, Eslint
 
 ## Steps to run the app
 * Run `npm install`
