@@ -1,0 +1,9 @@
+{
+  "screen-size": {
+    "xs": { "value": "0" },
+    "sm": { "value": "37.5em" },
+    "md": { "value": "48em" },
+    "lg": { "value": "56.25em" },
+    "xl": { "value": "75em" }
+  }
+}

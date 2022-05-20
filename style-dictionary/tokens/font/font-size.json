@@ -1,0 +1,18 @@
+{
+  "font": {
+    "size": {
+      "xxs": {"value": "1rem"},
+      "xs": {"value": "1.2rem"},
+      "sm": {"value": "1.4rem"},
+      "md": {"value": "1.6rem"},
+      "lg": {"value": "1.8rem"},
+      "xl": {"value": "2.2rem"},
+      "xxl": {"value": "2.6rem"},
+      "xxxl": {"value": "3.2rem"},
+      "base"  : {
+        "value": "{font.size.sm.value}",
+        "comment": "the default font size"
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "color": {
+    "white": {
+      "value": "#ffffff"
+    },
+    "gray": {
+      "10": {"value": "#f8f9fc"},
+      "20": {"value": "#f3f2ef"},
+      "30": {"value": "#edeff3"},
+      "40": {"value": "#dee2e7"},
+      "50": {"value": "#c4cad4"},
+      "60": {"value": "#97a2b4"},
+      "70": {"value": "#7d88a1"},
+      "80": {"value": "#636b88"},
+      "90": {"value": "#454e6e"},
+      "100": {"value": "#162741"}
+    },
+    "black": {
+      "value": "#000000"
+    },
+    "red": {
+      "20": {"value": "#fde8ea"},
+      "40": {"value": "#febec4"},
+      "60": {"value": "#f25a68"},
+      "80": {"value": "#cd3745"},
+      "100": {"value": "#a51d2b"}
+    },
+    "orange": {
+      "20": {"value": "#ffd7bd"},
+      "40": {"value": "#fba76f"},
+      "60": {"value": "#f16a22"},
+      "80": {"value": "#d04d0b"},
+      "100": {"value": "#9e3a00"}
+    },
+    "yellow": {
+      "20": {"value": "#fff2db"},
+      "40": {"value": "#ffd58a"},
+      "60": {"value": "#ffb838"},
+      "80": {"value": "#e6910a"},
+      "100": {"value": "#985e01"}
+    },
+    "green": {
+      "20": {"value": "#e6f9f1"},
+      "40": {"value": "#afe9d1"},
+      "60": {"value": "#1fa881"},
+      "80": {"value": "#148555"},
+      "100": {"value": "#085e38"}
+    },
+    "teal": {
+      "20": {"value": "#d2f3f3"},
+      "40": {"value": "#9de7e5"},
+      "60": {"value": "#13aeac"},
+      "80": {"value": "#14807e"},
+      "100": {"value": "#036362"}
+    },
+    "blue": {
+      "20": {"value": "#e0f2ff"},
+      "40": {"value": "#9ed4fa"},
+      "60": {"value": "#268ed9"},
+      "80": {"value": "#0062a8"},
+      "100": {"value": "#054d80"}
+    },
+    "indigo": {
+      "20": {"value": "#d9dcf2"},
+      "40": {"value": "#97a1e7"},
+      "60": {"value": "#4051bf"},
+      "80": {"value": "#23339a"},
+      "100": {"value": "#0c186a"}
+    },
+    "purple": {
+      "20": {"value": "#f4d4fc"},
+      "40": {"value": "#d2a9e5"},
+      "60": {"value": "#753b9d"},
+      "80": {"value": "#521877"},
+      "100": {"value": "#370b51"}
+    }
+  }
+}

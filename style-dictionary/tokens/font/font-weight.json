@@ -1,0 +1,11 @@
+{
+  "font-weight": {
+    "light": {"value": "300"},
+    "normal": {"value": "400"},
+    "bold": {"value": "700"},
+    "base"  : {
+      "value": "{font-weight.normal.value}",
+      "comment": "the default font weight"
+    }
+  }
+}

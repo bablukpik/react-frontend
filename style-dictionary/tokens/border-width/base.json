@@ -1,0 +1,7 @@
+{
+  "border-width": {
+    "sm": {"value": ".1rem"},
+    "md": {"value": ".2rem"},
+    "lg": {"value": ".4rem"}
+  }
+}

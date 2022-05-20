@@ -1,0 +1,34 @@
+{
+  "width": {
+    "2xs": {"value": "2.4rem"},
+    "xs": {"value": "3rem"},
+    "sm": {"value": "4rem"},
+    "md": {"value": "5rem"},
+    "lg": {"value": "6rem"},
+    "xl": {"value": "7rem"},
+    "half": {"value": "50%"},
+    "full": {"value": "100%"},
+    "fullVw": {"value": "100vw"}
+  },
+  "height": {
+    "2xs": {"value": "2.4rem"},
+    "xs": {"value": "3rem"},
+    "sm": {"value": "4rem"},
+    "md": {"value": "5rem"},
+    "lg": {"value": "6rem"},
+    "xl": {"value": "7rem"},
+    "half": {"value": "50%"},
+    "full": {"value": "100%"},
+    "fullVh": {"value": "100vh"}
+  },
+  "icon": {
+    "width": {
+      "sm": {"value": "1.2rem"},
+      "md": {"value": "2.4rem"}
+    },
+    "height": {
+      "sm": {"value": "1.2rem"},
+      "md": {"value": "2.4rem"}
+    }
+  }
+}

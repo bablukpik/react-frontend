@@ -1,0 +1,7 @@
+{
+  "font-family": {
+    "default": {"value": "Open Sans, helvetica, sans-sarif"},
+    "semi-bold": {"value": "Open Sans SemiBold, helvetica, sans-sarif"},
+    "bold": {"value": "Open Sans Bold, helvetica, sans-sarif"}
+  }
+}

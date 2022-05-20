@@ -1,0 +1,12 @@
+{
+  "line-height": {
+    "3xs": {"value": "1.6rem"},
+    "xxs": {"value": "1.8rem"},
+    "xs": {"value": "2rem"},
+    "sm": {"value": "2.2rem"},
+    "md": {"value": "2.8rem"},
+    "lg": {"value": "3.2rem"},
+    "xl": {"value": "4rem"},
+    "base": {"value": "1.5"}
+  }
+}

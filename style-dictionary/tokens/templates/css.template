@@ -1,0 +1,13 @@
+<% _.each(allProperties, function(prop) { %><% if (prop.name.includes('spacing')) { %><% _.each(['margin','padding'], function(property) { %>.u-<%= prop.name.replace('spacing', property + '-') %> {
+  <%= property %>: <%= prop.value %>;
+}
+<% _.each(['top','right','bottom','left'], function(direction) {%>
+.u-<%= prop.name.replace('spacing', property + '-' + direction + '-') %> {
+  <%= property %>-<%=direction %>: <%= prop.value %>;
+}
+<% }) %>
+<% }); %><% } %><% if (prop.name.includes('color')) { %><% _.each(['color','background-color'], function(property) { %>
+.u-<%= prop.name.replace('color', property + '-') %> {
+  <%= property %>: <%= prop.value %>!important;
+}
+<% }); %><% } %><% }); %>

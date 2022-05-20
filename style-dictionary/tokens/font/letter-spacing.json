@@ -1,0 +1,9 @@
+{
+  "letter-spacing": {
+    "1": {"value": "-.04rem"},
+    "2": {"value": "-.02rem"},
+    "3": {"value": "0"},
+    "4": {"value": ".03rem"},
+    "5": {"value": ".06rem"}
+  }
+}
